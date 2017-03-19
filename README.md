@@ -1,10 +1,11 @@
 # CentOS7のUSBインストールメディアを作成
-①8GBくらいのUSBメモリをMacに刺す。
-②Macのターミナル上で以下のコマンドを実行する
+## 8GBくらいのUSBメモリをMacに刺す。
+## Macのターミナル上で以下のコマンドを実行する
 ```
 $ sh createInstallMedia.sh 
 ```
-
+## 以下のように実行していき、`Finished.`と表示されたら、ディスクを取り出して、作成完了です。
+```
 ===== External Disk List =====
 /dev/disk2 (external, physical):
    #:                       TYPE NAME                    SIZE       IDENTIFIER
@@ -35,4 +36,4 @@ Unmount of all volumes on disk2 was successful
 1392640+0 records out
 713031680 bytes transferred in 676.196776 secs (1054474 bytes/sec)
 Finished.
- 
+```
