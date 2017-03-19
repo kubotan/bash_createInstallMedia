@@ -7,7 +7,7 @@
 - Google Chrome 56.0.2924.87 (64-bit)
 
 # 作成手順
-- [Download CentOS](https://www.centos.org/download/)を開き、isoファイル（軽量版のMinimal ISOを推奨）をダウンロード(ダウンロードフォルダを自動的に参照するので特にどこかに移動させなくても大丈夫です。)します。
+- [Download CentOS](https://www.centos.org/download/)を開き、isoファイル（軽量版のMinimal ISOを推奨）をダウンロードします。(ダウンロードフォルダを自動的に参照するので特にどこかに移動させなくても大丈夫です。)
 - 8GBくらいのUSBメモリをMacに刺す。
 - macのターミナル上で以下のコマンドを実行する
 ```
