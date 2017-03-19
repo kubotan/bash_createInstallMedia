@@ -1,4 +1,5 @@
-# CentOS7のUSBインストールメディアを作成
+# MacでCentOS7のUSBインストールメディアを作成
+- ブラウザでhttps://www.centos.org/download/を開き、isoファイルをダウンロードします。
 - 8GBくらいのUSBメモリをMacに刺す。
 - Macのターミナル上で以下のコマンドを実行する
 ```
