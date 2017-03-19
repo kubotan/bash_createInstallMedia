@@ -1,8 +1,9 @@
-*CentOS7のUSBインストールメディアを作成
-+8GBくらいのUSBメモリをMacに刺す。
-+Macのターミナル上で以下のコマンドを実行する
+# CentOS7のUSBインストールメディアを作成
+①8GBくらいのUSBメモリをMacに刺す。
+②Macのターミナル上で以下のコマンドを実行する
+```
 $ sh createInstallMedia.sh 
-
+```
 
 ===== External Disk List =====
 /dev/disk2 (external, physical):
