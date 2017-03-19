@@ -4,7 +4,8 @@
 ```
 $ sh createInstallMedia.sh 
 ```
-## 以下のように実行していき、`Finished.`と表示されたら、ディスクを取り出して、作成完了です。
+## 実行結果
+- `Finished.`と表示されたら、ディスクを取り出して、作成完了です。
 ```
 ===== External Disk List =====
 /dev/disk2 (external, physical):
