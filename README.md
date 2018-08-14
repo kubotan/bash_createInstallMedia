@@ -11,7 +11,7 @@
 - 8GBくらいのUSBメモリをMacに刺す。
 - macのターミナル上で以下のコマンドを実行する
 ```
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/kubotan/bash_createInstallMedia/master/createInstallMedia.sh)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/kubotan/bash_createInstallMedia/master/setup)"
 ```
 ## 実行結果
 - 以下のように進めていき、`Finished.`と表示されたら、ディスクを取り出して、作成完了です。
